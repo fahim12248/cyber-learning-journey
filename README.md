@@ -11,3 +11,6 @@ I am a second-year student currently learning cybersecurity and IT fundamentals.
 - Build hands-on projects
 - Develop practical cybersecurity skills
 - Secure a placement year in IT or cybersecurity
+- 
+## Progress
+- Started TryHackMe Pre Security path
