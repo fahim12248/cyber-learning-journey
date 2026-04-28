@@ -1,2 +1,13 @@
-# cyber-learning-journey
-documenting my journey into cybersecurity and IT, including hands-on labs and projects
+# Cyber Learning Journey
+
+I am a second-year student currently learning cybersecurity and IT fundamentals.
+
+## Current Focus
+- Networking basics
+- Linux
+- Security fundamentals (TryHackMe)
+
+## Goals
+- Build hands-on projects
+- Develop practical cybersecurity skills
+- Secure a placement year in IT or cybersecurity
